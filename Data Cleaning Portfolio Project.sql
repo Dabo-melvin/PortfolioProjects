@@ -226,6 +226,8 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
 
 
 
+Select *
+From PortfolioProject.dbo.NashvilleHousing
 
 
 
